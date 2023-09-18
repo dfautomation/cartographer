@@ -2,8 +2,8 @@
 Changelog for package cartographer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2023-09-18)
+------------------
 * Update dependency name for ceres solver.
 * Small fixes needed for focal support. (`#1704 <https://github.com/googlecartographer/cartographer/issues/1704>`_) (e8c1d84)
 * Contributors: Farhan Mustar, Wolfgang Hess
